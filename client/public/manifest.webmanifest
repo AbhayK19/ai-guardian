@@ -1,0 +1,19 @@
+{
+  "name": "AI Guardian",
+  "short_name": "AI Guardian",
+  "description": "AI Guardian safety monitoring prototype with simulated wearable telemetry.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#071018",
+  "theme_color": "#071018",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/guardian-icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

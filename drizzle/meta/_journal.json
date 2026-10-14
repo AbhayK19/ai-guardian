@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1789554270108,
+      "tag": "0000_peaceful_the_phantom",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1789554398663,
+      "tag": "0001_certain_pet_avengers",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1789625000000,
+      "tag": "0002_phase4_persistence",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1791951424440,
+      "tag": "0003_real_safety_integrations",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1791965542660,
+      "tag": "0004_emergency_contacts_updated_at",
+      "breakpoints": true
+    }
+  ]
+}
